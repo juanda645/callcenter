@@ -9,6 +9,8 @@ Había dos formas de dar la solución:
 
 Se desarrollo la opción 2 ya que lo que se espera evaluar es la habilidad de desarrollo en Java.
 
+- En la solución se dejaron varias impresiones de pantalla para poder evidenciar con mayor facilidad el correcto funcionamiento del "CallCenter".
+
 # Extras/Plus
 
 1. Dar alguna solución sobre qué pasa con una llamada cuando no hay ningún empleado libre.
