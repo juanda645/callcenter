@@ -27,4 +27,4 @@ Hay una prueba unitaria para demostrar estas soluciones a los extras.
 
 # Modelo de clases
 
-![alt text](https://drive.google.com/file/d/1VvbPzuoGxLhZEWd0UrgI7Asftfc0rsZ3/view)
+![](https://github.com/juanda645/callcenter/blob/master/callcenter.png)
