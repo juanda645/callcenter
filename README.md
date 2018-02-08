@@ -1,6 +1,6 @@
-#Prueba desarrollador almundo Juan Daniel Patiño
+# Prueba desarrollador almundo Juan Daniel Patiño
 
-#Explicaciones generales
+# Explicaciones generales
 
 Había dos formas de dar la solución:
 
@@ -9,7 +9,7 @@ Había dos formas de dar la solución:
 
 Se desarrollo la opción 2 ya que lo que se espera evaluar es la habilidad de desarrollo en Java.
 
-#Extras/Plus
+# Extras/Plus
 
 1. Dar alguna solución sobre qué pasa con una llamada cuando no hay ningún empleado libre.
 
