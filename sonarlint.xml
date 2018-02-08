@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dfc4dfcbdfc9dfc3dfc5dfc4dfcbdfc6df9cdf9ddf93df9a</password>
+          <option name="hostUrl" value="http://34.195.181.74:9000" />
+          <option name="login" value="juan.patino" />
+          <option name="name" value="SonarIntegraIT" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
